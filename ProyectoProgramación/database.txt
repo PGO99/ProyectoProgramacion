@@ -1,0 +1,4 @@
+pgarcia_proyectop
+pgarcia992
+Pgarcia99@@
+jdbc:mysql://pgarcia.salesianas.es/
